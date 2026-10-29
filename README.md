@@ -56,7 +56,7 @@
 Добавьте в планировщик вашего хостинга задачу, выполняющую запрос к сайту с нужной периодичностью:
 
 
-wget -q -O - https://vash-sait.ru/?action=auto_update_posts_cron >/dev/null 2>&1
+wget -q -O - https://zaplata.ru/?action=auto_update_posts_cron >/dev/null 2>&1
 
 
 
