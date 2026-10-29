@@ -55,3 +55,19 @@
 Добавьте в планировщик вашего хостинга задачу, выполняющую запрос к сайту с нужной периодичностью:
 ```bash
 wget -q -O - https://vash-sait.ru/?action=auto_update_posts_cron >/dev/null 2>&1
+
+
+
+---
+
+## Лицензия
+
+Copyright © 2024 Elizarov_n906
+
+Этот плагин распространяется под лицензией **GNU General Public License v2 (GPLv2)**.
+Это означает, что вы можете свободно использовать, изменять и распространять плагин при условии сохранения открытости исходного кода.
+
+<div align="center">
+  <br>
+  Разработано — <a href="https://github.com/elizarov-n906">Elizarov_n906</a>
+</div>
