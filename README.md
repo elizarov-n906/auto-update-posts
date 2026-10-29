@@ -1,8 +1,11 @@
 # Auto Update Posts
 
+
 <p align="center">
-  <img src="assets/banner-1544x500.jpg" alt="Auto Update Posts — автоматическое обновление дат записей" width="100%">
+  <img src="assets/banner-1544x500.png" alt="Auto Update Posts — автоматическое обновление дат записей" width="100%">
 </p>
+
+
 
 <div align="center">
 
